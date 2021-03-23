@@ -1,0 +1,8 @@
+name: Task dashboard generator
+
+on:
+    push:
+        paths:
+            - "contributions/**"
+        branches:
+            - 2021
